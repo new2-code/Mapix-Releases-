@@ -18,7 +18,7 @@ Mapix acts as a "Senior Architect on your second monitor."
 
 ---
 
-##🚀 Download & Installation
+## 🚀 Download & Installation
 To download the latest secure Windows executable, please navigate to the Releases tab on this repository.
 
 For more details, pricing, and feature breakdowns, please visit our official website:
