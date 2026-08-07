@@ -26,10 +26,7 @@ For more details, pricing, and feature breakdowns, please visit our official web
 
 ---
 
-## 🐛 Support & Community
-Mapix is built by and for developers. If you want to request a feature, report a bug, or show off screenshots of your massive architecture maps, join our community!
 
-🔗 **[Join the Mapix Discord](#)** *(https://discord.gg/SwHtBaju5W)*
 
 ---
 *Map your architecture. Trace your bugs. Give your AI a memory.*
